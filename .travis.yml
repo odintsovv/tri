@@ -1,4 +1,4 @@
-os_custom: PythonTest
+os_custom: NekhDRej/PythonTest
 jobs:
 script:
 - sleep 10
